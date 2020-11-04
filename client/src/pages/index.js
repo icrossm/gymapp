@@ -1,0 +1,17 @@
+export { default as HomePage } from './home/home';
+export { default as ProfilePage } from './profile/profile';
+export { default as TasksPage } from './tasks/tasks';
+export { default as CustomerPage } from './customer/customer';
+export { default as ServicesPage } from './services/services';
+export { default as TrainersPage } from './trainers/trainers';
+export { default as ProductsPage } from './products/products';
+export { default as CustomerExpensePage } from './customerExpense/customerExpense';
+export { default as CustomerPaymentPage } from './customerPayment/customerPayment';
+export { default as GroupsPage } from './groups/groups';
+export { default as CustomerDebitPage } from './customerDebit/customerDebit';
+export { default as CustomerTrackPage } from './customerTrack/customerTrack';
+export { default as CustomerRatingPage } from './customerRating/customerRating';
+export { default as AppointmentsPage } from './appointments/appointments';
+export { default as AppByTrainersPage } from './appByTrainers/appByTrainers';
+export { default as AppByGroupPage } from './appByGroup/appByGroup';
+export { default as AppAnalysisPage } from './appAnalysis/appAnalysis';
